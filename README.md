@@ -1,6 +1,4 @@
-Sure! Here's your complete and well-formatted `README.md` file, written in clean Markdown syntax, ready to use on GitHub for the **Handwritten-Digit-Recognition-using-CNN** project:
 
----
 
 ```markdown
 # 🖐️ Handwritten Digit Recognition using CNN
